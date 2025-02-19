@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{3513E28D-4E73-871C-B412-AD8E52C87333}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "NiagaraCrash",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
